@@ -1,0 +1,15 @@
+../Core/Src/listmenu.c:21:6:selectmenu	56	static
+../Core/Src/listmenu.c:77:6:menucard	32	static
+../Core/Src/listmenu.c:798:6:menuface	32	static
+../Core/Src/listmenu.c:1510:6:adduid	16	static
+../Core/Src/listmenu.c:1544:6:checkthe	16	static
+../Core/Src/listmenu.c:1606:10:CheckKey	24	static
+../Core/Src/listmenu.c:1619:6:removeuid	16	static
+../Core/Src/listmenu.c:1623:6:startadd	8	static
+../Core/Src/listmenu.c:1653:6:setaddress	16	static
+../Core/Src/listmenu.c:1663:6:remoall	16	static
+../Core/Src/listmenu.c:1672:6:resetflash	72	static
+../Core/Src/listmenu.c:1696:6:addface	16	static
+../Core/Src/listmenu.c:1714:6:removeface	16	static
+../Core/Src/listmenu.c:1732:9:checkfaceid	16	static
+../Core/Src/listmenu.c:1747:6:checkface	16	static

@@ -1,0 +1,4 @@
+../Core/Src/subcardid.c:12:9:checkcountUID	16	static
+../Core/Src/subcardid.c:28:9:CheckUID	32	static
+../Core/Src/subcardid.c:41:9:CheckListUID	24	static
+../Core/Src/subcardid.c:54:6:swipesuccess	8	static

@@ -1,0 +1,2 @@
+../Core/Src/lock.c:15:6:opendoor	8	static
+../Core/Src/lock.c:22:6:noopendoor	8	static
